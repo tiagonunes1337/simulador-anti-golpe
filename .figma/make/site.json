@@ -1,0 +1,11 @@
+{
+  "title": "simuladoreducativo",
+  "description": "Ajuda pessoas idosas a reconhecer golpes digitais com simulações interativas, orientações claras e dicas práticas para tomar decisões mais seguras.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
